@@ -35,7 +35,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
             </style>
         </head>
         <body>
-            <h1>Hello world, my name is Santiago and this is my app with Golang and Docker</h1>
+            <h1>Hello world, my name is Santiago and this is my app with Golang</h1>
         </body>
         </html>
     `
